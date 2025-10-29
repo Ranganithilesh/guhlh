@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ShelterConnect India",
+  "description": "A platform that connects homeless individuals with nearby shelters, NGOs, and volunteers in India. It features a map-based shelter search, real-time availability, donation system, and volunteer portal.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
